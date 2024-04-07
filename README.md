@@ -12,7 +12,7 @@
 
 <div>
   <a href="https://github.com/douglassc03">
-  <img height="180em" width ="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglao03&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width ="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglassc03&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
