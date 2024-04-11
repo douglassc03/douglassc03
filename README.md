@@ -1,8 +1,8 @@
 ### Olá! Bem vindo ao meu GitHub! 👋
 
--Estudante de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro (UFRRJ)
+-Estudo Ciência da Computação na Universidade Federal Rural do Rio de Janeiro (UFRRJ)
 
--Aqui estão alguns dos projetos finalizados e alguns que estou desenvolvendo. 
+-Aqui estão os meus projetos finalizados e alguns ainda em desenvolvimento.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-costa-beber-scherer-8ab146242/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/399724118016000001)
