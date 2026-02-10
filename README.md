@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/399724118016000001)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasscherer03@gmail.com)
 
-![Douglas' GitHub stats](https://github-readme-stats.vercel.app/api?username=douglassc03&show_icons=true&theme=dark)
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=douglassc03&show_icons=true&theme=dark)
 
 <div>
   <a href="https://github.com/douglassc03">
